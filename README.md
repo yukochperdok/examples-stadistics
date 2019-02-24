@@ -15,6 +15,8 @@ Estan repartidas por temas:
                             f) Regresion logistica ordinal
 7. Regresion No lineal: ejemplos de transformaciones no lineales a lineales y trabajo con ellas.
 8. Reg.Cox: Varios ejemplos del paquete survival avanzados
+9. Series Temporales:  Ejemplos ARIMA y ARMA
+10. ClickStream Analytics: Ejemplos Motores de recomendacion
 
 Por ultimo comentar que en la carpeta Ficheros Datos, encontraras todos los ficheros necesarios para la ejecuccion de los scripts
 
